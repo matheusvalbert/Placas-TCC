@@ -10,3 +10,12 @@ Melhoria do treinamento para OpenALPR para reconhecer placas brasileiras em conj
 </p>
 
 Os testes foram realizados utilizando o dataset fornescido pelo OpenALPR: https://github.com/matheusvalbert/train-detector/tree/master/br
+
+# Utilizando apenas a imagem mais provavél
+
+- O’s com 0’s e 0’s com O’s
+- I’s com 1’s e 1’s com I’s
+- B’s com 8’s e 8’s com B’s
+- S’s com 5’s e 5’s com S’s
+
+Realizando a substituição das letras e números de acordo com sua posição na placa brasileira, conseguimos uma taxa de acerto de 86,84%.
