@@ -20,3 +20,8 @@ Realizar as seguintes substituições:
 - S’s com 5’s e 5’s com S’s
 
 Realizando a substituição das letras e números de acordo com sua posição na placa brasileira, conseguimos uma taxa de acerto de 86,84%.
+
+# Outros repositórios do projeto
+Servidor: https://github.com/matheusvalbert/Server-TCC
+Desktop: https://github.com/matheusvalbert/Desktop-TCC
+Mobile: https://github.com/matheusvalbert/Mobile-TCC
