@@ -23,5 +23,7 @@ Realizando a substituição das letras e números de acordo com sua posição na
 
 # Outros repositórios do projeto
 Servidor: https://github.com/matheusvalbert/Server-TCC
+
 Desktop: https://github.com/matheusvalbert/Desktop-TCC
+
 Mobile: https://github.com/matheusvalbert/Mobile-TCC
