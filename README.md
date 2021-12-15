@@ -13,6 +13,7 @@ Os testes foram realizados utilizando o dataset fornescido pelo OpenALPR: https:
 
 # Utilizando apenas a placa mais provavél
 
+Realizar as seguintes substituições:
 - O’s com 0’s e 0’s com O’s
 - I’s com 1’s e 1’s com I’s
 - B’s com 8’s e 8’s com B’s
