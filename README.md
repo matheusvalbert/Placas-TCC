@@ -6,7 +6,7 @@ Melhoria do treinamento para OpenALPR para reconhecer placas brasileiras em conj
 
 ## Teste realizado utilizando a ferramenta do OpenALPR
 <p align="center">
-  <img width="100%" src="https://github.com/matheusvalbert/Placas-TCC/blob/main/openalpr_img.jpg" />
+  <img src="https://github.com/matheusvalbert/Placas-TCC/blob/main/openalpr_img.jpg" />
 </p>
 
-Os testes foram realizados utilizando o dataset fornescido pelo OpenALPR: 
+Os testes foram realizados utilizando o dataset fornescido pelo OpenALPR: https://github.com/matheusvalbert/train-detector
