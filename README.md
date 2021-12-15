@@ -11,7 +11,7 @@ Melhoria do treinamento para OpenALPR para reconhecer placas brasileiras em conj
 
 Os testes foram realizados utilizando o dataset fornescido pelo OpenALPR: https://github.com/matheusvalbert/train-detector/tree/master/br
 
-# Utilizando apenas a imagem mais provavél
+# Utilizando apenas a placa mais provavél
 
 - O’s com 0’s e 0’s com O’s
 - I’s com 1’s e 1’s com I’s
